@@ -6,3 +6,22 @@
   height: 400px;
   color: white;
 }
+.nav-bar{
+  position: absolute;
+  top:0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10PX 20PX;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-bar a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 10px;
+}
+.nav-bar a:hover{
+  text-decoration: underline;
+}
