@@ -1,0 +1,8 @@
+.banner{
+  position: relative;
+  background-image: url("https://thumbs.dreamstime.com/z/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  color: white;
+}
